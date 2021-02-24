@@ -1,0 +1,23 @@
+         name | symbol | hits | cooldown | desc.
+--------------------------------------------------------------------------------
+    BigShield |   O    |  2   |    -     | germ with a big colored shield.
+    Chameleon |   C    |  2   |    7     | changes color.
+     Switcher |   I    |  3   |    7     | swaps with another switcher.
+      Painter |   P    |  2   |    10    | paints a random germ in its color.
+      Spikes1 |   s    |  3   |    3     | deletes to 2 random neighboring tiles
+      Spikes2 |   t    |  3   |    6     | deletes to 4 random neighboring tiles
+      Spikes3 |   u    |  3   |    7     | deletes to 6 random neighboring tiles
+       Thorn1 |   S    |  1   |    5     | deletes to 2 random neighboring tiles
+       Thorn2 |   T    |  1   |    6     | deletes to 4 random neighboring tiles
+       Thorn3 |   U    |  1   |    7     | deletes to 6 random neighboring tiles
+       Shield |   D    |  2   |    -     | germ with a colored shield.
+       Block3 |   w    |  4   |    -     |             -
+       Block2 |   x    |  3   |    -     |             -
+       Block1 |   y    |  2   |    -     |             -
+       Block0 |   z    |  1   |    -     |             -
+        Basic |   B    |  1   |    -     |             -
+        Mover |   M    |  1   |    7     | moves to an adjacent empty tile
+        Virus |   V    |  1   |    10    | changes a tile into a virus
+        Wall3 |   W    |  4   |    -     |             -
+        Wall2 |   X    |  3   |    -     |             -
+        Wall1 |   Y    |  2   |    -     |             -

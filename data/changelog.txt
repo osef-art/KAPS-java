@@ -1,0 +1,108 @@
+  TO BE ADDED
+    - :smirk:
+
+  TO BE CHANGED
+    - coords for gelule ?
+    - pause, chrono, timer
+    - caps bonus
+    - germ score
+    - animation time
+
+  TO BE IMPLEMENTED
+    - play several levels next to next
+    - fluid fall (USE TIMER TO DRAW CAPS !!!) (w- we'll return to that later)
+    - mouse control
+    - unlinked caps control
+    - better displaying management ('popping', 'sliced') ?
+
+  TO BE CORRECTED
+    - points when popped germs
+    - gelule disappearing ???
+    - timer issues
+
+  TO BE DRAWN
+    - pause menu + sidekick info
+    - Wall explosion animation
+    - virus birth
+
+  LOG:
+01/02 :: ADDED:
+            - new type: VIRUS
+            - max 5 per level
+         IMPLEMENTED:
+            - germs w/ cooldown
+         CHANGED:
+            - coord thing
+            - cooldown flash
+            - removed x and y from germ
+            - new gauges appearance
+            - no more GermCD & shit
+
+30/01 :: ADDED:
+            - Jim & Xereth & their attacks
+            - sidekick gauge
+            - an attack to Sean
+            - 2 new levels :)
+         CHANGED:
+            - moved sidekicks from board to level
+            - 1 life wall is no more
+         DRAWN:
+            - JIM :D
+            - XERETH :D
+            - whole line slice anim
+
+28/01 :: ADDED:
+            - a combo hashmap for sidekicks
+            - sidekick attacks
+         IMPLEMENTED:
+            - modularisation
+         DRAWN:
+            - slice anim
+
+18/01 :: ADDED:
+            - combos
+         IMPLEMENTED:
+            - number of additional colors
+            - random colors depending on the sidekicks
+
+17/01 :: ADDED:
+            - acceleration
+            - preview as a field
+            - top panel
+            - enemies left
+            - mute
+         IMPLEMENTED:
+            - REAL GAME LOOP !!
+            - timer rethink
+            - fluid fall 🙄
+            - window refactor
+
+
+15/01 :: ADDED:
+            - new colors
+            - new recolor program based on rgba
+         IMPLEMENTED:
+            - resizeable graphic interface
+
+
+14/01 :: IMPLEMENTED:
+            - sidekicks
+            - level colors depending on sidekicks
+            - img directories
+         DRAWN:
+            - 2 sidekicks
+
+13/01 :: CORRECTED:
+            - infinite dip
+            - floating gelules
+         DRAWN:
+            - popping and falling animations
+         ADDED:
+            - next gelule
+            - hold function
+            - fonts
+            - score
+
+
+05/01 :: IMPLEMENTED
+            - possibility to load a level

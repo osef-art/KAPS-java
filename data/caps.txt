@@ -1,0 +1,8 @@
+         name | desc.
+------------------------------------------------------------------------------
+         Bomb | hits all adjacent tiles
+    FlashBomb | delays all enemies attack by 3 turns
+ BouletteTime | slows caps fall
+           x2 | multiplies line score
+           x3 | multiplies line score
+           x4 | multiplies line score
