@@ -35,9 +35,9 @@ But make sure not to exceed the grid ! Beware, the game gets faster over time.
 | Name | | Mana | Dmg | Power |  
 |---:|:---:|:---:|:---:|:---|   
 | MIMAPS | ![alt text](img/sidekicks/Mimaps_0.png "Mimaps") | 15       | 2 | Hits 3 random objects
-| RED    | ![alt text](img/sidekicks/Red_0.png "Red")       | 25       | 2 | Slices a random object and all tiles on the same column
+| RED    | ![alt text](img/sidekicks/Red_0.png "Red")       | 20       | 2 | Slices a random object and all tiles on the same column
 | XERETH | ![alt text](img/sidekicks/Xereth_0.png "Xereth") | 25       | 1 | Slices a random object and all tiles on the same diagonals
-| JIM    | ![alt text](img/sidekicks/Jim_0.png "Jim")       | 20       | 1 | Slices a random object and all tiles on the same line
+| JIM    | ![alt text](img/sidekicks/Jim_0.png "Jim")       | 25      | 1 | Slices a random object and all tiles on the same line
 | SEAN   | ![alt text](img/sidekicks/Sean_0.png "Sean")     | 20       | 2 | Hits a random object and adjacent tiles
 | ZYRAME | ![alt text](img/sidekicks/Zyrame_0.png "Zyrame") | 20       | 2 | Slices two random germs
 | PAINT  | ![alt text](img/sidekicks/Paint_0.png "Paint")   | 10       | 0 | Paint 5 random caps
