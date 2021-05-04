@@ -1,8 +1,27 @@
 # KAPS
 
 A *'Dr. Mario'-like* colorful mini-game. Match the colored capsules and
-get rid of every germ in the grid ! 
-🧪
+get rid of every germ in the grid ! 🧪
+
+
+## LAUNCH THE GAME 🎮
+⚠ You must have [**Java 13** or +](https://www.oracle.com/java/technologies/javase/jdk13-archive-downloads.html)
+installed to play the game.
+
+Once the project **cloned** / **unzipped** the <code>.zip</code> file, open the <code>/ministick-moves</code>
+directory and
+
+#### WINDOWS
+- Click on `launch.bat`
+
+#### LINUX
+- Execute `./launch.sh`
+
+...or place yourself in the root directory,
+open a terminal and launch the command:
+```bash
+java -jar ministick-moves.jar
+```
 
 ## HOW TO PLAY 🕹
 
@@ -51,7 +70,7 @@ But make sure not to exceed the grid ! Beware, the game gets faster over time.
 | WALL  | ![alt text](img/germs/wall4/2_0.png "Wall")  | - | Needs several hits (4 max.) to be destroyed
 | VIRUS | ![alt text](img/germs/virus/5_0.png "Virus") | 8 | Turns a random tile into a virus
 | THORN | ![alt text](img/germs/thorn/4_0.png "Thorn") | 5 | Destroys a random capsule among tiles around
-| ???    | ? | 6 | Turns a random caps into a basic germ, or a random basic germ into a wall (2 HP), or can heal a wall (by 1 HP) (Coming soon !)
+| ???   | ? | 6 | Turns a random caps into a basic germ, or a random basic germ into a wall (2 HP), or can heal a wall (by 1 HP) (Coming soon !)
 
 
 ## SPECIAL CAPSULES ✨💊
