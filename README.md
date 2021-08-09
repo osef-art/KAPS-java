@@ -20,7 +20,7 @@ directory and
 ...or place yourself in the root directory,
 open a terminal and launch the command:
 ```bash
-java -jar ministick-moves.jar
+java -jar kaps.jar
 ```
 
 ## HOW TO PLAY 🕹
