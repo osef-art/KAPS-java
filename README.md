@@ -20,7 +20,7 @@ directory and
 ...or place yourself in the root directory,
 open a terminal and launch the command:
 ```bash
-java -jar kaps.jar
+java -jar KAPS.jar
 ```
 
 ## HOW TO PLAY 🕹
